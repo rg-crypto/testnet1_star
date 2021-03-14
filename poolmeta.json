@@ -1,1 +1,7 @@
-
+{
+  "name": "testnet1_star",
+  "ticker": "TSTAR",
+  "description": "test pool",
+  "homepage": "https://foo.com",
+  "nonce": "1615728148"
+}
